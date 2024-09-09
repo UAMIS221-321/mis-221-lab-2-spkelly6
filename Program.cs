@@ -33,5 +33,5 @@ double GetTip()
 
 void StateCost(double orderCost)
 {
-    Console.WriteLine($"Your total order cost is $" + orderCost);
+    Console.WriteLine("Your total order cost is $" + orderCost);
 }
